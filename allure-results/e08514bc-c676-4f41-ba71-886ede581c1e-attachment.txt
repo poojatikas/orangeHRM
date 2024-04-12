@@ -1,0 +1,9 @@
+[32mINFO    [0m Test_searchch_empemp:test_search_emp_testcase.py:27 TESTCASE TEST_SEARCH_EMP_004 IS STARTED
+[32mINFO    [0m Test_searchch_empemp:test_search_emp_testcase.py:29 OPENING THE BROWSER
+[32mINFO    [0m Test_searchch_empemp:test_search_emp_testcase.py:31 MAXIMIZE THE BROWSER
+[32mINFO    [0m Test_searchch_empemp:test_search_emp_testcase.py:37 NAVIGATING TO THE URL
+[32mINFO    [0m Test_searchch_empemp:test_search_emp_testcase.py:40 ENTERING THE USERNAME
+[32mINFO    [0m Test_searchch_empemp:test_search_emp_testcase.py:43 ENTERING THE PASSWORD
+[32mINFO    [0m Test_searchch_empemp:test_search_emp_testcase.py:46 CLICK ON LOGIN BUTTON
+[32mINFO    [0m Test_searchch_empemp:test_search_emp_testcase.py:51 click on PIM tab
+[32mINFO    [0m Test_searchch_empemp:test_search_emp_testcase.py:56 SEARCHIN FOR EMPLOYEE

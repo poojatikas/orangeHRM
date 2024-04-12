@@ -1,0 +1,7 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Fri Apr 12 00:18:02 IST 2024","Fri Apr 12 00:18:23 IST 2024","21751","testcases","test_login_HRM_testcase","Test_OhrmProject","","","TITLE OF THE TEST CASE",""
+"passed","Mon Apr 08 19:14:58 IST 2024","Mon Apr 08 19:15:22 IST 2024","24425","testcases","test_DDT_add_emp","Test_Ddt_Add_emp","","","TITLE OF THE TEST CASE #4",""
+"passed","Fri Apr 12 00:19:00 IST 2024","Fri Apr 12 00:19:56 IST 2024","55493","testcases","test_search_emp_testcase","Test_searchch_empemp","","","TITLE OF THE TEST CASE IS #3",""
+"passed","Mon Apr 08 18:16:29 IST 2024","Mon Apr 08 18:16:56 IST 2024","26511","testcases","test_add_testcase","Test_Adddd_Emp","","","TITLE OF THE TEST CASE #2",""
+"passed","Fri Apr 12 00:18:00 IST 2024","Fri Apr 12 00:18:54 IST 2024","53193","testcases","test_add__emp_testcase","Test_Adddd_Emp","","","TITLE OF THE TEST CASE #2",""
+"passed","Fri Apr 12 00:18:02 IST 2024","Fri Apr 12 00:18:38 IST 2024","35992","testcases","test_login_HRM_testcase","Test_OhrmProject","","","test_login_HRM_002",""

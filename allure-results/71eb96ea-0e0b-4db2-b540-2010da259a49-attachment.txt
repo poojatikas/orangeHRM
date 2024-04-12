@@ -1,0 +1,13 @@
+[32mINFO    [0m Test_OhrmProject:test_login_HRM_testcase.py:62 TEST_LOGIN_HRM_002 IS STARTED
+[32mINFO    [0m Test_OhrmProject:test_login_HRM_testcase.py:64 OPENING THE BROWSER
+[32mINFO    [0m Test_OhrmProject:test_login_HRM_testcase.py:66 MAXIMIZE THE BROWSER
+[32mINFO    [0m Test_OhrmProject:test_login_HRM_testcase.py:72 NAVIGATING TO THE URL
+[32mINFO    [0m Test_OhrmProject:test_login_HRM_testcase.py:75 ENTER THE USERNAME
+[32mINFO    [0m Test_OhrmProject:test_login_HRM_testcase.py:78 ENTER THE PASSWORD
+[32mINFO    [0m Test_OhrmProject:test_login_HRM_testcase.py:81 CLICK ON LOGIN BUTTON
+[32mINFO    [0m Test_OhrmProject:test_login_HRM_testcase.py:84 CHECKING FOR THE LOGIN STATUS
+[32mINFO    [0m Test_OhrmProject:test_login_HRM_testcase.py:88 TAKING SCREENSHOT
+[32mINFO    [0m Test_OhrmProject:test_login_HRM_testcase.py:93 CLICK ON MENU BUTTON
+[32mINFO    [0m Test_OhrmProject:test_login_HRM_testcase.py:96 CLICK ON LOGOUT BUTTON
+[32mINFO    [0m Test_OhrmProject:test_login_HRM_testcase.py:99 CLOSING THE BROWSER
+[32mINFO    [0m Test_OhrmProject:test_login_HRM_testcase.py:113 TEST CASE LOGIN 002 IS COMPLETED

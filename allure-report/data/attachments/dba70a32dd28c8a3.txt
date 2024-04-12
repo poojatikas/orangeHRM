@@ -1,0 +1,18 @@
+[32mINFO    [0m Test_Ddt_Add_emp:test_DDT_add_emp.py:24 TESTCASE_DDT_HRM_ADD_005 IS STARTED
+[32mINFO    [0m Test_Ddt_Add_emp:test_DDT_add_emp.py:26 OPENING THE BROWSER
+[32mINFO    [0m Test_Ddt_Add_emp:test_DDT_add_emp.py:28 MAXIMIZE THE WINDOW
+[32mINFO    [0m Test_Ddt_Add_emp:test_DDT_add_emp.py:34 NAVIGATING TO THE URL
+[32mINFO    [0m Test_Ddt_Add_emp:test_DDT_add_emp.py:37 ENTERING THE USERNAME
+[32mINFO    [0m Test_Ddt_Add_emp:test_DDT_add_emp.py:40 ENTERING THE PASSWORD
+[32mINFO    [0m Test_Ddt_Add_emp:test_DDT_add_emp.py:43 CLICK ON LOGIN BUTTON
+[32mINFO    [0m Test_Ddt_Add_emp:test_DDT_add_emp.py:58 CLICK ON THE PIM TAB
+[32mINFO    [0m Test_Ddt_Add_emp:test_DDT_add_emp.py:61 CLCIK ON ADD BUTTON
+[32mINFO    [0m Test_Ddt_Add_emp:test_DDT_add_emp.py:64 ENTERING THE FIRST NAME
+[32mINFO    [0m Test_Ddt_Add_emp:test_DDT_add_emp.py:67 ENTERING THE MIDDLE NAME
+[32mINFO    [0m Test_Ddt_Add_emp:test_DDT_add_emp.py:70 ENTERING THE LAST NAME
+[32mINFO    [0m Test_Ddt_Add_emp:test_DDT_add_emp.py:73 FETCHING EMPLOYEE ID
+[32mINFO    [0m Test_Ddt_Add_emp:test_DDT_add_emp.py:76 UPLOADING PROFILE PICTURE
+[32mINFO    [0m Test_Ddt_Add_emp:test_DDT_add_emp.py:80 CLICKING ON SAVE BUTTON
+[32mINFO    [0m Test_Ddt_Add_emp:test_DDT_add_emp.py:83 CHECKING FOR THE SUCCESS MESSAGE
+[32mINFO    [0m Test_Ddt_Add_emp:test_DDT_add_emp.py:87 TAKING SCREENSHOT
+[32mINFO    [0m Test_Ddt_Add_emp:test_DDT_add_emp.py:99 TESTCASE DDT_HRM_ADD_005 IS COMPLETED

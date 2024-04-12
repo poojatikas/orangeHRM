@@ -1,0 +1,7 @@
+[32mINFO    [0m Test_OhrmProject:test_login_HRM_testcase.py:10 TEST_PAGE_TITLE_OHRM_001 IS STARTED
+[32mINFO    [0m Test_OhrmProject:test_login_HRM_testcase.py:12 MAXIMIZE THE BROWSER
+[32mINFO    [0m Test_OhrmProject:test_login_HRM_testcase.py:18 NAVIGATING TO THE URL
+[32mINFO    [0m Test_OhrmProject:test_login_HRM_testcase.py:21 CHECKING THE TITLE OF THE PAGE
+[32mINFO    [0m Test_OhrmProject:test_login_HRM_testcase.py:24 TAKING THE SCREENSHOT
+[32mINFO    [0m Test_OhrmProject:test_login_HRM_testcase.py:28 CLOSING THE BROWSER
+[32mINFO    [0m Test_OhrmProject:test_login_HRM_testcase.py:40 TEST_PAGE_TITLE_OHRM_OO1 IS STARTED
